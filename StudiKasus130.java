@@ -16,5 +16,4 @@ public class StudiKasus130 {
         System.out.print("Masukkan uang bayar: Rp");
         uangBayar = sc.nextInt();
 
-    }
-}
+      
