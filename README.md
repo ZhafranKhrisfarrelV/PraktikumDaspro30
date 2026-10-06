@@ -4,3 +4,5 @@ Kelas SIB 1F
 saya menyukai anime
 dan saya suka main rubik
 saya suka mendengarkan musik
+saya suka mendengarkan musik
+saya suka melihat alam
