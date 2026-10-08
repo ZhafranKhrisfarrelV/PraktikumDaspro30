@@ -1,8 +1,9 @@
-Nama saya Zhafran Khrisfarrel V
-NIM saya 264107060100
-Kelas SIB 1F
-saya menyukai anime
-dan saya suka main rubik
-saya suka mendengarkan musik
-saya suka mendengarkan musik
-saya suka melihat alam
+Ini adalah repository pertama saya 
+Nama  : Zhafran Khrisfarrel Vatraya
+NIM   : 264107060100
+Kelas : SIB - 1F
+
+Hasil Uji Studi Kasus 2 oleh <Nama>
+| No | Jenis | Dokumen | Juara/Dana | Output | Sesuai? |
+|----|-------|---------|------------|--------|---------|
+| 1  | 2     | 4       | 3          | Berhak | Ya      |
